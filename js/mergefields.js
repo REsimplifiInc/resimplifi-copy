@@ -87,7 +87,7 @@ var mergefields =
       {'label':'Year Built',                'value':'Property: Year Built'},
       {'label':'Common Area Factor',        'value':'Property: Common Area Factor|number_format:2'},
       {'label':'Acreage',                   'value':'Property: Acreage|number_format:2'},
-	  {'label':'Natural Gas'				'value':'Property: Natural Gas'},
+      {'label':'Natural Gas',		    'value':'Property: Natural Gas'},
 
     {'label':'subheader',         'value':'Images'},
       {'label':'Primary Image',   'value':'Property: Image Primary Public'},
