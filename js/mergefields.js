@@ -88,7 +88,7 @@ var mergefields =
 {'label': 'Cap Rate 3 Dollars','value': 'Property: Cap Rate 3 Dollars|number_format:2'},
 {'label': 'Cap Rate 3 Percent','value': 'Property: Cap Rate 3 Percent|number_format:3'},
 {'label': 'Ceiling Height','value': 'Property: Ceiling Height'},
-{'label': 'City,''value': 'Property: City'},
+{'label': 'City','value': 'Property: City'},
 {'label': 'Common Area Factor','value': 'Property: Common Area Factor'},
 {'label': 'Construction Date','value': 'Property: Construction Datedate_format:"F j, Y"'},
 {'label': 'Contiguous SF','value': 'Property: Contiguous SF'},
