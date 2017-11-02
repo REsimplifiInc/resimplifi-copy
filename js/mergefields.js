@@ -97,7 +97,7 @@ var mergefields =
 	  {'label':'Transaction Amount',                      'value':'Transaction Amount|number_format:2'},
 	  
 	  
-	  {'label':'subheader',                               'value':'Commission Residual)'},
+	  {'label':'subheader',                               'value':'Commission Residual'},
 	  {'label':'Residual Commission Months',                      'value':'Residual Commission Months'},
 	  {'label':'Residual Commission First Mo Dollars',                      'value':'Residual Commission First Mo Dollars|number_format:2'},
 	  {'label':'Residual Commission Remaining Mo Percent',                      'value':'Residual Commission Remaining Mo Percent|number_format:2'},
@@ -167,7 +167,7 @@ var mergefields =
 	  {'label':'Transaction Amount',                      'value':'Transaction Amount|number_format:2'},
 	  
 	  
-	  {'label':'subheader',                               'value':'Commission Residual)'},
+	  {'label':'subheader',                               'value':'Commission Residual'},
 	  {'label':'Residual Commission Months',                      'value':'Residual Commission Months'},
 	  {'label':'Residual Commission First Mo Dollars',                      'value':'Residual Commission First Mo Dollars|number_format:2'},
 	  {'label':'Residual Commission Remaining Mo Percent',                      'value':'Residual Commission Remaining Mo Percent|number_format:2'},
