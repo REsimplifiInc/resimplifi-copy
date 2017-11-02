@@ -37,6 +37,43 @@ var mergefields =
       {'label':'Listing Term',                  'value':'Listing Agreement Term Months'},
       {'label':'Gross Listing Commission %',    'value':'Gross Commission Percentage|number_format:2'},
       {'label':'Sales Price',                   'value':'Transaction Size|number_format:2'},
+	  
+	{'label':'subheader',                       'value':'Sale Details'},
+		{'label':'Total Sales Price',   'value':'Total Sales Price'},
+		{'label':'Per Square Foot Cost',   'value':'Per Square Foot Cost'},
+		{'label':'Cap Rate Percent',   'value':'Cap Rate Percent|number_format:2'},
+		{'label':'Close Date',   'value':'Close Date||date_format:"F j, Y"'},
+	
+	{'label':'subheader',                       'value':'Due Deligence Peroid'},
+		{'label':'Due Diligence Period Expiration Date',   'value':'Due Diligence Period Expiration Date|date_format:"F j, Y"'},
+		{'label':'Earnest Money Amount',   'value':'Earnest Money Amount|number_format:2'},
+		{'label':'Earnest Money Held By',   'value':'Earnest Money Held By'},
+		{'label':'Earnest Money Hard 1',   'value':'Earnest Money Hard 1|number_format|2'},
+		{'label':'Due Diligence Period 1 Status',   'value':'Due Diligence Period 1 Status'},
+		
+	{'label':'subheader',                       'value':'Additional Due Deligence Peroid'},
+		{'label':'Due Diligence Period 2 Expiration Date',   'value':'Due Diligence Period 2 Expiration Date|date_format:"F j, Y"'},
+		{'label':'Earnest Money Amount 2',   'value':'Earnest Money Amount 2|number_format:2'},
+		{'label':'Earnest Money Held By 2',   'value':'Earnest Money Held By 2'},
+		{'label':'Earnest Money Hard 2',   'value':'Earnest Money Hard 2|number_format|2'},
+		{'label':'Due Diligence Period 2 Status',   'value':'Due Diligence Period 2 Status'},
+		
+	
+	{'label':'subheader',                       'value':'Commission'},
+		{'label':'Transaction Amount',   'value':'Transaction Amount'},
+		{'label':'Square Footage',   'value':'Square Footage|number_format:2'},
+		{'label':'Rate Type',   'value':'Rate Type'},
+		{'label':'Total Rate Dollar',   'value':'Total Rate Dollar|number_format:2'},
+		{'label':'Total Gross Value',   'value':'Total Gross Value'},
+		{'label':'In House Commission Percent',   'value':'In House Commission Percent|number_format:2'},
+		{'label':'In House Commission Amount',   'value':'In House Commission Amount'},
+		{'label':'External Commission Percent',   'value':'External Commission Percent|number_format:2'},
+		{'label':'External Commission Amount',   'value':'External Commission Amount|number_format:2'},
+		{'label':'External Company',   'value':'External Company'},
+		{'label':'Commission Notes',   'value':'Commission Notes'},
+		
+
+    
 
   //############################################################################
   {'label':'header',                            'value':'Landlord'},
