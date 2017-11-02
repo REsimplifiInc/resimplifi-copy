@@ -79,7 +79,7 @@ var mergefields =
 	  {'label':'Additional Concessions',         			  'value':'Additional Concessions'},
 	  
 	  
-	  {'label':'subheader',                               'value':'Commission (Cashout v Residual)'},
+	 {'label':'subheader',                               'value':'Commission Cashout '},
       {'label':'Cashout Commission Checkbox',      		  'value':'Cashout Commission Checkbox'},
 	  {'label':'Transaction Amount',                      'value':'Transaction Amount|number_format:2'},
 	  {'label':'Square Footage',                      'value':'Square Footage|number_format:2'},
@@ -95,6 +95,9 @@ var mergefields =
 	  {'label':'External Company',                      'value':'External Company'},
 	  {'label':'Commission Notes',                      'value':'Commission Notes'},
 	  {'label':'Transaction Amount',                      'value':'Transaction Amount|number_format:2'},
+	  
+	  
+	  {'label':'subheader',                               'value':'Commission Residual)'},
 	  {'label':'Residual Commission Months',                      'value':'Residual Commission Months'},
 	  {'label':'Residual Commission First Mo Dollars',                      'value':'Residual Commission First Mo Dollars|number_format:2'},
 	  {'label':'Residual Commission Remaining Mo Percent',                      'value':'Residual Commission Remaining Mo Percent|number_format:2'},
@@ -104,7 +107,6 @@ var mergefields =
 	  {'label':'Residual In House Commission Amount',                      'value':'Residual In House Commission Amount'},
 	  {'label':'Residual External Commission Percent',                      'value':'Residual External Commission Percent|number_format:2'},
 	  {'label':'Residual External Commission Amount',                      'value':'Residual External Commission Amount'},
-
 	  
 	  
   //############################################################################
@@ -147,7 +149,7 @@ var mergefields =
 	  
 	  
 	  
-	  {'label':'subheader',                               'value':'Commission (Cashout v Residual)'},
+	  {'label':'subheader',                               'value':'Commission Cashout '},
       {'label':'Cashout Commission Checkbox',      		  'value':'Cashout Commission Checkbox'},
 	  {'label':'Transaction Amount',                      'value':'Transaction Amount|number_format:2'},
 	  {'label':'Square Footage',                      'value':'Square Footage|number_format:2'},
@@ -163,6 +165,9 @@ var mergefields =
 	  {'label':'External Company',                      'value':'External Company'},
 	  {'label':'Commission Notes',                      'value':'Commission Notes'},
 	  {'label':'Transaction Amount',                      'value':'Transaction Amount|number_format:2'},
+	  
+	  
+	  {'label':'subheader',                               'value':'Commission Residual)'},
 	  {'label':'Residual Commission Months',                      'value':'Residual Commission Months'},
 	  {'label':'Residual Commission First Mo Dollars',                      'value':'Residual Commission First Mo Dollars|number_format:2'},
 	  {'label':'Residual Commission Remaining Mo Percent',                      'value':'Residual Commission Remaining Mo Percent|number_format:2'},
