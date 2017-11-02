@@ -72,9 +72,18 @@ var mergefields =
       {'label':'Lease Type',                   			  'value':'Lease Type'},
 	  {'label':'Base Rate',                   			  'value':'Base Rate|number_format:2'},
 	  {'label':'Annual Rate Increase',                    'value':'Annual Rate Increase'},
+	  {'label':'Annual Rate Increase(%)',                 'value':'Annual Rate Increase(%)'},
+	  {'label':'Annual Rate Increase Type',               'value':'Annual Rate Increase Type'},
 	  {'label':'Base Year',                    			  'value':'Base Year'},
-	  {'label':'Security Deposit',                    			  'value':'Security Deposit'},
-	  {'label':'Annual Rate Increase(%)',                    			  'value':'Annual Rate Increase(%)'},
+	  {'label':'Security Deposit',                    	  'value':'Security Deposit'},
+	  {'label':'Security Deposit Amount',                 'value':'Security Deposit Amount|number_format:2'},
+	  {'label':'Security Deposit Held By',                 'value':'Security Deposit Held By'},
+	  {'label':'Improvement Allowance',                 'value':'Improvement Allowance|number_format:2'},
+	  {'label':'Average Rent',                 			'value':'Average Rent|number_format:2'},
+	  {'label':'Free Rent',                 			'value':'Free Rent|number_format:2'},
+	  
+	  
+	  
 
   //############################################################################
   {'label':'header',                        'value':'Property'},
