@@ -50,7 +50,63 @@ var mergefields =
       {'label':'Listing Rental Rate $',         'value':'Search Yearly Square Foot Rate|number_format:2'},
       {'label':'Projected Rental Increase',     'value':'Search Yearly Square Foot Rate Increase|number_format:2'},
       {'label':'Projected Term (Years)',        'value':'Term Years'},
+	  
+	  {'label':'subheader',                               'value':'Lease Details'},
+      {'label':'Lease Commencement Date',                 'value':'Lease Commencement Date|date_format:"F j, Y"'},
+      {'label':'Lease Expiration Date',                   'value':'Lease Expiration Date|date_format:"F j, Y"'},
+      {'label':'Lease Term (Months)',         			  'value':'Lease Term Months'},
+      {'label':'Lease Execution Date',    				  'value':'Lease Execution Date|date_format:"F j, Y"'},
+      {'label':'Lease Possession Date',            		  'value':'Lease Possession Date|date_format:"F j, Y"'},
+      {'label':'Lease Type',                   			  'value':'Lease Type'},
+	  {'label':'Base Rate',                   			  'value':'Base Rate|number_format:2'},
+	  {'label':'Annual Rate Increase',                    'value':'Annual Rate Increase'},
+	  {'label':'Annual Rate Increase(%)',                 'value':'Annual Rate Increase(%)'},
+	  {'label':'Annual Rate Increase Type',               'value':'Annual Rate Increase Type'},
+	  {'label':'Base Year',                    			  'value':'Base Year'},
+	  {'label':'Security Deposit',                    	  'value':'Security Deposit'},
+	  {'label':'Security Deposit Amount',                 'value':'Security Deposit Amount|number_format:2'},
+	  {'label':'Security Deposit Held By',                 'value':'Security Deposit Held By'},
+	  {'label':'Improvement Allowance',                 'value':'Improvement Allowance|number_format:2'},
+	  {'label':'Average Rent',                 			'value':'Average Rent|number_format:2'},
+	  {'label':'Free Rent',                 			'value':'Free Rent|number_format:2'},
+	  
+	  
+	  
+	   {'label':'subheader',                               'value':'Tenant Options'},
+      {'label':'Option to Renew Expiration Date',                    'value':'Option to Renew Expiration Date|date_format:"F j, Y"'},
+      {'label':'Option to Terminate Expiration Date',                   'value':'Option to Terminate Expiration Date|date_format:"F j, Y"'},
+      {'label':'Option to Purchase Expiration Date',         			  'value':'Option to Purchase Expiration Datedate_format:"F j, Y"'},
+	  {'label':'Additional Concessions',         			  'value':'Additional Concessions'},
+	  
+	  
+	  {'label':'subheader',                               'value':'Commission (Cashout v Residual)'},
+      {'label':'Cashout Commission Checkbox',      		  'value':'Cashout Commission Checkbox'},
+	  {'label':'Transaction Amount',                      'value':'Transaction Amount|number_format:2'},
+	  {'label':'Square Footage',                      'value':'Square Footage|number_format:2'},
+	  {'label':'Rate Type',                      'value':'Rate Type|number_format:2'},
+	  {'label':'Total Rate Dollar',                      'value':'Total Rate Dollar|number_format:2'},
+	  {'label':'Total Rate Dollar Per SF',                      'value':'Total Rate Dollar Per SF|number_format:2'},
+	  {'label':'Total Rate Percent',                      'value':'Total Rate Percent'},
+	  {'label':'Total Gross Value',                      'value':'Total Gross Value'},
+	  {'label':'In House Commission Percent',                      'value':'In House Commission Percent|number_format:2'},
+	  {'label':'In House Commission Amount',                      'value':'In House Commission Amount'},
+	  {'label':'External Commission Percent',                      'value':'External Commission Percent|number_format:2'},
+	  {'label':'External Commission Amount',                      'value':'External Commission Amount'},
+	  {'label':'External Company',                      'value':'External Company'},
+	  {'label':'Commission Notes',                      'value':'Commission Notes'},
+	  {'label':'Transaction Amount',                      'value':'Transaction Amount|number_format:2'},
+	  {'label':'Residual Commission Months',                      'value':'Residual Commission Months'},
+	  {'label':'Residual Commission First Mo Dollars',                      'value':'Residual Commission First Mo Dollars|number_format:2'},
+	  {'label':'Residual Commission Remaining Mo Percent',                      'value':'Residual Commission Remaining Mo Percent|number_format:2'},
+	  {'label':'Residual Total Rate Percent',                      'value':'Residual Total Rate Percent'},
+	  {'label':'Residual Total Gross Value',                      'value':'Residual Total Gross Value'},
+	  {'label':'Residual In House Commission Percent',                      'value':'Residual In House Commission Percent|number_format:2'},
+	  {'label':'Residual In House Commission Amount',                      'value':'Residual In House Commission Amount'},
+	  {'label':'Residual External Commission Percent',                      'value':'Residual External Commission Percent|number_format:2'},
+	  {'label':'Residual External Commission Amount',                      'value':'Residual External Commission Amount'},
 
+	  
+	  
   //############################################################################
   {'label':'header',                                      'value':'Tenant'},
   //############################################################################
