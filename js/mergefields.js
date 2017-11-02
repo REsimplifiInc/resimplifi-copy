@@ -247,6 +247,19 @@ var mergefields =
       {'label':'State',           'value':'Buyer Account: Billing State Province'},
       {'label':'Zipcode',         'value':'Buyer Account: Billing Zip Postal Code'},
       {'label':'Country',         'value':'Buyer Account: Billing Country'},
+	  {'label':'Type',            'value':'Buyer Account: Account Type'},
+	  {'label':'Company Status',  'value':'Buyer Account: Company Status'},
+	  {'label':'Industry',        'value':'Buyer Account: Industry'},
+	  {'label':'Phone',        	  'value':'Buyer Account: Account Phone'},
+	  {'label':'Fax',        	  'value':'Buyer Account: Account Fax'},
+	  {'label':'Website',         'value':'Buyer Account: Website'},
+	  {'label':'Number Of Days',  'value':'Buyer Account: Number Of Days'},
+	  {'label':'Company Type',  'value':'Buyer Account: Company Type'},
+	  {'label':'Upsell Opportunity',  'value':'Buyer Account: Upsell Opportunity'},
+	  
+	  
+	  
+	  
 
     {'label':'subheader',         'value':'Buyer Contact (Primary)'},
       {'label':'Full Name',       'value':'Primary Buyer Contact: Full Name'},
@@ -258,6 +271,15 @@ var mergefields =
       {'label':'Fax',             'value':'Primary Buyer Contact: Business Fax'},
       {'label':'Phone',           'value':'Primary Buyer Contact: Business Phone'},
       {'label':'Mobile Phone',    'value':'Primary Buyer Contact: Mobile Phone'},
+	  {'label':'Company',         'value':'Primary Buyer Contact: Company'},
+	  {'label':'Contact Status',  'value':'Primary Buyer Contact: Contact Status'},
+	  {'label':'Contact Type',    'value':'Primary Buyer Contact: Contact Type'},
+	  {'label':'Industry',        'value':'Primary Buyer Contact: Industry'},
+	  {'label':'Source',          'value':'Primary Buyer Contact: Source'},
+	  
+	  
+	  
+	  
 
     {'label':'subheader',         'value':'Seller Acount'},
       {'label':'Account Name',    'value':'Seller Account: Account Name'},
@@ -266,6 +288,15 @@ var mergefields =
       {'label':'State',           'value':'Seller Account: Billing State Province'},
       {'label':'Zipcode',         'value':'Seller Account: Billing Zip Postal Code'},
       {'label':'Country',         'value':'Seller Account: Billing Country'},
+	  {'label':'Type',            'value':'Seller Account: Account Type'},
+	  {'label':'Company Status',  'value':'Seller Account: Company Status'},
+	  {'label':'Industry',        'value':'Seller Account: Industry'},
+	  {'label':'Phone',        	  'value':'Seller Account: Account Phone'},
+	  {'label':'Fax',        	  'value':'Seller Account: Account Fax'},
+	  {'label':'Website',         'value':'Seller Account: Website'},
+	  {'label':'Number Of Days',  'value':'Seller Account: Number Of Days'},
+	  {'label':'Company Type',  'value':'Seller Account: Company Type'},
+	  {'label':'Upsell Opportunity',  'value':'Seller Account: Upsell Opportunity'},
 
     {'label':'subheader',     'value':'Seller Contact (Primary)'},
       {'label':'Full Name',       'value':'Primary Seller Contact: Full Name'},
@@ -277,6 +308,11 @@ var mergefields =
       {'label':'Fax',             'value':'Primary Seller Contact: Business Fax'},
       {'label':'Phone',           'value':'Primary Seller Contact: Business Phone'},
       {'label':'Mobile Phone',    'value':'Primary Seller Contact: Mobile Phone'},
+	  {'label':'Company',         'value':'Primary Seller Contact: Company'},
+	  {'label':'Contact Status',  'value':'Primary Seller Contact: Contact Status'},
+	  {'label':'Contact Type',    'value':'Primary Seller Contact: Contact Type'},
+	  {'label':'Industry',        'value':'Primary Seller Contact: Industry'},
+	  {'label':'Source',          'value':'Primary Seller Contact: Source'},
 
     {'label':'subheader',         'value':'Landlord Acount'},
       {'label':'Account Name',    'value':'Landlord Account: Account Name'},
@@ -285,6 +321,15 @@ var mergefields =
       {'label':'State',           'value':'Landlord Account: Billing State Province'},
       {'label':'Zipcode',         'value':'Landlord Account: Billing Zip Postal Code'},
       {'label':'Country',         'value':'Landlord Account: Billing Country'},
+	  {'label':'Type',            'value':'Landlord Account: Account Type'},
+	  {'label':'Company Status',  'value':'Landlord Account: Company Status'},
+	  {'label':'Industry',        'value':'Landlord Account: Industry'},
+	  {'label':'Phone',        	  'value':'Landlord Account: Account Phone'},
+	  {'label':'Fax',        	  'value':'Landlord Account: Account Fax'},
+	  {'label':'Website',         'value':'Landlord Account: Website'},
+	  {'label':'Number Of Days',  'value':'Landlord Account: Number Of Days'},
+	  {'label':'Company Type',  'value':'Landlord Account: Company Type'},
+	  {'label':'Upsell Opportunity',  'value':'Landlord Account: Upsell Opportunity'},
 
     {'label':'subheader',     'value':'Landlord Contact (Primary)'},
       {'label':'Full Name',       'value':'Primary Landlord Contact: Full Name'},
@@ -296,6 +341,11 @@ var mergefields =
       {'label':'Fax',             'value':'Primary Landlord Contact: Business Fax'},
       {'label':'Phone',           'value':'Primary Landlord Contact: Business Phone'},
       {'label':'Mobile Phone',    'value':'Primary Landlord Contact: Mobile Phone'},
+	  {'label':'Company',         'value':'Primary Landlord  Contact: Company'},
+	  {'label':'Contact Status',  'value':'Primary Landlord  Contact: Contact Status'},
+	  {'label':'Contact Type',    'value':'Primary Landlord  Contact: Contact Type'},
+	  {'label':'Industry',        'value':'Primary Landlord  Contact: Industry'},
+	  {'label':'Source',          'value':'Primary Landlord  Contact: Source'},
 
     {'label':'subheader',         'value':'Tenant Acount'},
       {'label':'Account Name',    'value':'Tenant Account: Account Name'},
