@@ -62,6 +62,19 @@ var mergefields =
       {'label':'Tenant Agents Commission (estimate)%',    'value':'Tenant Agent Commission|number_format:2'},
       {'label':'Representation Term (months)',            'value':'Listing Agreement Term Months'},
       {'label':'Improvement Allowance',                   'value':'Improvement Allowance|number_format:2'},
+	  
+	  {'label':'subheader',                               'value':'Lease Details'},
+      {'label':'Lease Commencement Date',                 'value':'Lease Commencement Date|date_format:"F j, Y"'},
+      {'label':'Lease Expiration Date',                   'value':'Lease Expiration Date|date_format:"F j, Y"'},
+      {'label':'Lease Term (Months)',         			  'value':'Lease Term Months'},
+      {'label':'Lease Execution Date',    				  'value':'Lease Execution Date|date_format:"F j, Y"'},
+      {'label':'Lease Possession Date',            		  'value':'Lease Possession Date|date_format:"F j, Y"'},
+      {'label':'Lease Type',                   			  'value':'Lease Type'},
+	  {'label':'Base Rate',                   			  'value':'Base Rate|number_format:2'},
+	  {'label':'Annual Rate Increase',                    'value':'Annual Rate Increase'},
+	  {'label':'Base Year',                    			  'value':'Base Year'},
+	  {'label':'Security Deposit',                    			  'value':'Security Deposit'},
+	  {'label':'Annual Rate Increase(%)',                    			  'value':'Annual Rate Increase(%)'},
 
   //############################################################################
   {'label':'header',                        'value':'Property'},
@@ -191,12 +204,6 @@ var mergefields =
   {'label':'header',        'value':'Transaction'},
   //############################################################################
 
-    {'label':'subheader',                                 'value':'Suite Information'},
-      {'label':'Suite Number',                            'value':'Suite'},
-      {'label':'Suite Size',                              'value':'Suite Size'},
-      {'label':'Total Building Size',                     'value':'Property: Total Building Size'},
-      {'label':'Pro Rata Share Building Opex',            'value':'Pro Rata Share|number_format:2'},
-      {'label':'Description of Demised Premises/Suite',   'value':'Suite Description'},
 
     {'label':'subheader',                                 'value':'Earnest Money'},
       {'label':'Earnest Money',                           'value':'Earnest Money (Sale)'},
@@ -204,16 +211,7 @@ var mergefields =
       {'label':'Close Date ',                             'value':'Close Date|date_format:"F j, Y"'},
       {'label':'Due Diligence Period Expiration Date',    'value':'Due Diligence Period Expiration Date|date_format:"F j, Y"'},
 
-    {'label':'subheader',                                 'value':'Commission Details'},
-      {'label':'Gross Value of Transaction $',            'value':'Transaction Size|number_format:2'},
-      {'label':'Gross Commission %',                      'value':'Gross Commission Percentage|number_format:2'},
-      {'label':'Company Commission %',                    'value':'Company Commission Percent|number_format:2'},
-      {'label':'Co-Broker Commission %',                  'value':'Co-Broker Commission Split|number_format:2'},
-      {'label':'Gross Commission $',                      'value':'Gross Commission|number_format:2'},
-      {'label':'Company Commission $',                    'value':'Company Commission Amount|number_format:2'},
-      {'label':'Co-Broker Commission $',                  'value':'Outside Commission Amount|number_format:2'},
-      {'label':'Commission to be paid by',                'value':'Commission To Be Paid By'},
-      {'label':'Commission Notes',                        'value':'Commission Notes'},
+   
 
     {'label':'subheader',                                 'value':'Residual Commission Details'},
       {'label':'Gross Residual Commission Dollars',        'value':'Gross Residual Commission Dollars'},
