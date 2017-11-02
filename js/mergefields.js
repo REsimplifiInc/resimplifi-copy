@@ -88,6 +88,36 @@ var mergefields =
       {'label':'Option to Terminate Expiration Date',                   'value':'Option to Terminate Expiration Date|date_format:"F j, Y"'},
       {'label':'Option to Purchase Expiration Date',         			  'value':'Option to Purchase Expiration Datedate_format:"F j, Y"'},
 	  {'label':'Additional Concessions',         			  'value':'Additional Concessions'},
+	  
+	  
+	  
+	  {'label':'subheader',                               'value':'Commission (Cashout v Residual)'},
+      {'label':'Cashout Commission Checkbox',      		  'value':'Cashout Commission Checkbox'},
+	  {'label':'Transaction Amount',                      'value':'Transaction Amount|number_format:2'},
+	  {'label':'Square Footage',                      'value':'Square Footage|number_format:2'},
+	  {'label':'Rate Type',                      'value':'Rate Type|number_format:2'},
+	  {'label':'Total Rate Dollar',                      'value':'Total Rate Dollar|number_format:2'},
+	  {'label':'Total Rate Dollar Per SF',                      'value':'Total Rate Dollar Per SF|number_format:2'},
+	  {'label':'Total Rate Percent',                      'value':'Total Rate Percent'},
+	  {'label':'Total Gross Value',                      'value':'Total Gross Value'},
+	  {'label':'In House Commission Percent',                      'value':'In House Commission Percent|number_format:2'},
+	  {'label':'In House Commission Amount',                      'value':'In House Commission Amount'},
+	  {'label':'External Commission Percent',                      'value':'External Commission Percent|number_format:2'},
+	  {'label':'External Commission Amount',                      'value':'External Commission Amount'},
+	  {'label':'External Company',                      'value':'External Company'},
+	  {'label':'Commission Notes',                      'value':'Commission Notes'},
+	  {'label':'Transaction Amount',                      'value':'Transaction Amount|number_format:2'},
+	  {'label':'Residual Commission Months',                      'value':'Residual Commission Months'},
+	  {'label':'Residual Commission First Mo Dollars',                      'value':'Residual Commission First Mo Dollars|number_format:2'},
+	  {'label':'Residual Commission Remaining Mo Percent',                      'value':'Residual Commission Remaining Mo Percent|number_format:2'},
+	  {'label':'Residual Total Rate Percent',                      'value':'Residual Total Rate Percent'},
+	  {'label':'Residual Total Gross Value',                      'value':'Residual Total Gross Value'},
+	  {'label':'Residual In House Commission Percent',                      'value':'Residual In House Commission Percent|number_format:2'},
+	  {'label':'Residual In House Commission Amount',                      'value':'Residual In House Commission Amount'},
+	  {'label':'Residual External Commission Percent',                      'value':'Residual External Commission Percent|number_format:2'},
+	  {'label':'Residual External Commission Amount',                      'value':'Residual External Commission Amount'},
+		
+	  
 
   //############################################################################
   {'label':'header',                        'value':'Property'},
