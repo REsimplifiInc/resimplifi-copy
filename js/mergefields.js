@@ -83,7 +83,11 @@ var mergefields =
 	  {'label':'Free Rent',                 			'value':'Free Rent|number_format:2'},
 	  
 	  
-	  
+	  {'label':'subheader',                               'value':'Tenant Options'},
+      {'label':'Option to Renew Expiration Date',                    'value':'Option to Renew Expiration Date|date_format:"F j, Y"'},
+      {'label':'Option to Terminate Expiration Date',                   'value':'Option to Terminate Expiration Date|date_format:"F j, Y"'},
+      {'label':'Option to Purchase Expiration Date',         			  'value':'Option to Purchase Expiration Datedate_format:"F j, Y"'},
+	  {'label':'Additional Concessions',         			  'value':'Additional Concessions'},
 
   //############################################################################
   {'label':'header',                        'value':'Property'},
