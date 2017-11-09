@@ -69,11 +69,13 @@ var mergefields =
   //############################################################################
 
     {'label':'subheader',                       'value':'Agreement Details'},
-      {'label':'Agreement Commencement Date',   'value':'Listing Agreement Commencement Date|date_format:"F j, Y"'},
-      {'label':'Agreement Expiration Date',     'value':'Listing Agreement Expiration Date|date_format:"F j, Y"'},
-      {'label':'Listing Term',                  'value':'Listing Agreement Term Months'},
-      {'label':'Gross Listing Commission %',    'value':'Gross Commission Percentage|number_format:2'},
-      {'label':'Sales Price',                   'value':'Transaction Size|number_format:2'},
+      {'label':'Agreement Commencement Date',     'value':'Deal: Listing Agreement Commencement Date|date_format:"F j, Y"'},
+      {'label':'Agreement Expiration Date',       'value':'Deal: Listing Agreement Expiration Date|date_format:"F j, Y"'},
+      {'label':'Gross Listing Commission $',      'value':'Deal: Gross Listing Commission Dollars|number_format:2'},
+      {'label':'Gross Listing Commission %',      'value':'Deal: Gross Listing Commission Percent|number_format:2'},
+      {'label':'Representation Term (months)',    'value':'Deal: Listing Agreement Term Months'},
+      {'label':'Cap Rate(%)',    'value':'Deal: Cap Rate Percent'},
+     {'label':'Asking Price',    'value':'Deal: Asking Price'},
 	  
 	{'label':'subheader',                       'value':'Sale Details'},
 		{'label':'Total Sales Price',   'value':'Total Sales Price'},
