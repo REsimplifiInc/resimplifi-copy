@@ -188,12 +188,12 @@ var mergefields =
   //############################################################################
 
     {'label':'subheader',                                 'value':'Agency Representation'},
-      {'label':'Agreement Commencement Date',             'value':'Listing Agreement Commencement Date|date_format:"F j, Y"'},
-      {'label':'Agreement Expiration Date',               'value':'Listing Agreement Expiration Date|date_format:"F j, Y"'},
-      {'label':'Listing Agreement Term (Months)',         'value':'Listing Agreement Term Months'},
-      {'label':'Tenant Agents Commission (estimate)%',    'value':'Tenant Agent Commission|number_format:2'},
-      {'label':'Representation Term (months)',            'value':'Listing Agreement Term Months'},
-      {'label':'Improvement Allowance',                   'value':'Improvement Allowance|number_format:2'},
+      {'label':'Agreement Commencement Date',     'value':'Deal: Listing Agreement Commencement Date|date_format:"F j, Y"'},
+      {'label':'Agreement Expiration Date',       'value':'Deal: Listing Agreement Expiration Date|date_format:"F j, Y"'},
+      {'label':'Gross Listing Commission $',      'value':'Deal: Gross Listing Commission Dollars|number_format:2'},
+      {'label':'Gross Listing Commission %',      'value':'Deal: Gross Listing Commission Percent|number_format:2'},
+      {'label':'Representation Term (months)',    'value':'Deal: Listing Agreement Term Months'},
+      {'label':'Type',    'value':'Deal: Type'},
 	  
 	  {'label':'subheader',                               'value':'Lease Details'},
       {'label':'Lease Commencement Date',                 'value':'Lease Commencement Date|date_format:"F j, Y"'},
