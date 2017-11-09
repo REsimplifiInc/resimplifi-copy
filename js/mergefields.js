@@ -443,9 +443,9 @@ var mergefields =
 	  {'label':'Phone',        	  'value':'Buyer Account: Account Phone'},
 	  {'label':'Fax',        	  'value':'Buyer Account: Account Fax'},
 	  {'label':'Website',         'value':'Buyer Account: Website'},
-	  {'label':'Number Of Days',  'value':'Buyer Account: Number Of Days'},
+	
 	  {'label':'Company Type',  'value':'Buyer Account: Company Type'},
-	  {'label':'Upsell Opportunity',  'value':'Buyer Account: Upsell Opportunity'},
+	
 	  
 	  
 	  
@@ -484,9 +484,9 @@ var mergefields =
 	  {'label':'Phone',        	  'value':'Seller Account: Account Phone'},
 	  {'label':'Fax',        	  'value':'Seller Account: Account Fax'},
 	  {'label':'Website',         'value':'Seller Account: Website'},
-	  {'label':'Number Of Days',  'value':'Seller Account: Number Of Days'},
+
 	  {'label':'Company Type',  'value':'Seller Account: Company Type'},
-	  {'label':'Upsell Opportunity',  'value':'Seller Account: Upsell Opportunity'},
+
 
     {'label':'subheader',     'value':'Seller Contact (Primary)'},
       {'label':'Full Name',       'value':'Primary Seller Contact: Full Name'},
@@ -517,9 +517,9 @@ var mergefields =
 	  {'label':'Phone',        	  'value':'Landlord Account: Account Phone'},
 	  {'label':'Fax',        	  'value':'Landlord Account: Account Fax'},
 	  {'label':'Website',         'value':'Landlord Account: Website'},
-	  {'label':'Number Of Days',  'value':'Landlord Account: Number Of Days'},
+
 	  {'label':'Company Type',  'value':'Landlord Account: Company Type'},
-	  {'label':'Upsell Opportunity',  'value':'Landlord Account: Upsell Opportunity'},
+
 
     {'label':'subheader',     'value':'Landlord Contact (Primary)'},
       {'label':'Full Name',       'value':'Primary Landlord Contact: Full Name'},
@@ -550,9 +550,9 @@ var mergefields =
 	  {'label':'Phone',        	  'value':'Tenant Account: Account Phone'},
 	  {'label':'Fax',        	  'value':'Tenant Account: Account Fax'},
 	  {'label':'Website',         'value':'Tenant Account: Website'},
-	  {'label':'Number Of Days',  'value':'Tenant Account: Number Of Days'},
+
 	  {'label':'Company Type',  'value':'Tenant Account: Company Type'},
-	  {'label':'Upsell Opportunity',  'value':'Tenant Account: Upsell Opportunity'},
+
 	  
 
     {'label':'subheader',     'value':'Tenant Contact (Primary)'},
@@ -584,9 +584,9 @@ var mergefields =
 	  {'label':'Phone',        	  'value':'Co-Broker Account: Account Phone'},
 	  {'label':'Fax',        	  'value':'Co-Broker Account: Account Fax'},
 	  {'label':'Website',         'value':'Co-Broker Account: Website'},
-	  {'label':'Number Of Days',  'value':'Co-Broker Account: Number Of Days'},
+
 	  {'label':'Company Type',  'value':'Co-Broker Account: Company Type'},
-	  {'label':'Upsell Opportunity',  'value':'Co-Broker Account: Upsell Opportunity'},
+
 
     {'label':'subheader',     'value':'Co-Broker Contact (Primary)'},
       {'label':'Full Name',       'value':'Co-Broker Contact: Full Name'},
