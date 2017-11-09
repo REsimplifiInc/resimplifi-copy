@@ -3,7 +3,7 @@ var mergefields =
   {'label':'header',        'value':'Buyer'},
   //############################################################################
 
-    {'label':'subheader',                         'value':'Agency Representation'},
+    {'label':'subheader',                         'value':'Agreement Details'},
       {'label':'Agreement Commencement Date',     'value':'Deal: Listing Agreement Commencement Date|date_format:"F j, Y"'},
       {'label':'Agreement Expiration Date',       'value':'Deal: Listing Agreement Expiration Date|date_format:"F j, Y"'},
       {'label':'Gross Listing Commission Type',     'value':'Deal: Gross Listing Commission Type'},
@@ -200,7 +200,7 @@ var mergefields =
   {'label':'header',                                      'value':'Tenant'},
   //############################################################################
 
-    {'label':'subheader',                                 'value':'Agency Representation'},
+    {'label':'subheader',                                 'value':'Agreement Details'},
       {'label':'Agreement Commencement Date',     'value':'Deal: Listing Agreement Commencement Date|date_format:"F j, Y"'},
       {'label':'Agreement Expiration Date',       'value':'Deal: Listing Agreement Expiration Date|date_format:"F j, Y"'},
       {'label':'Gross Listing Commission Type',     'value':'Deal: Gross Listing Commission Type'},
